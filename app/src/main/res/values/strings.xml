@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Complaint</string>
+    <string name="lang">Language</string>
+    <string name="tital">Cyber Shield</string>
+    <string name="one">Report Found Child</string>
+    <string name="one1">Found Child Information</string>
+    <string name="one2">Recent Child Picture</string>
+    <string name="one3">Found Child Name</string>
+    <string name="one4">Sex</string>
+    <string name="one5">Age</string>
+    <string name="one6">Detail</string>
+    <string name="one7">Time</string>
+    <string name="one8">Date</string>
+    <string name="one9">City where child was Found</string>
+    <string name="one10">Address where child was Found</string>
+    <string name="one11">Additional Detail about child</string>
+    <string name="one12">Contect Information</string>
+    <string name="one13">Submit</string>
+    <string name="two">Report Missing Child</string>
+    <string name="two1">Missing Child and Father/Guardian Information</string>
+    <string name="two2">Child Name</string>
+    <string name="two3">Father/Guardian Name</string>
+    <string name="two4">Child B Form No./CNIC</string>
+    <string name="two5">Father/Guardian CNIC</string>
+    <string name="two6">Where Was Missing Child Seen Last</string>
+    <string name="two7">Child House Address</string>
+    <string name="two8">Detail of Incident</string>
+    <string name="three">Report Stolen Vehicle</string>
+    <string name="three1">Stolen Vehicle Information</string>
+    <string name="three2">Recent Vehical Picture</string>
+    <string name="three3">Vehical Name</string>
+    <string name="three4">Vehical Model</string>
+    <string name="three5">Vehical Engine No</string>
+    <string name="three6">City where Vehical was Stolen</string>
+    <string name="three7">Address where was Vehical Stolen</string>
+    <string name="three8">Additional Detail about Vehical</string>
+    <string name="four">Report Fire</string>
+    <string name="five">Report Burglary</string>
+    <string name="six">Report Corruption</string>
+    <string name="seven">Report Rape</string>
+    <string name="seven1">Rape Report Information</string>
+    <string name="seven2">Raped Victim Picture</string>
+    <string name="seven3">Raped Victim Name</string>
+    <string name="seven4">Age</string>
+    <string name="seven5">Height</string>
+    <string name="seven6">City where Rape Held</string>
+    <string name="seven7">Address where was Rape Held</string>
+    <string name="seven8">Additional Detail about Rape</string>
+    <string name="eight">Report Abuse</string>
+    <string name="eight1">Abuse Report Information</string>
+    <string name="eight2">Abused Victim Picture</string>
+    <string name="eight3">Abused Victim Name</string>
+    <string name="eight4">City where Abuse Held</string>
+    <string name="eight5">Address where was Abuse Held</string>
+    <string name="eight6">Additional Detail about Abuse</string>
+    <string name="nine1">Harassment Report Information</string>
+    <string name="nine2">Harassed Victim Picture</string>
+    <string name="nine3">Harassed Victim Name</string>
+    <string name="nine4">City where Harassment Held</string>
+    <string name="nine5">Address where was Harassment Held</string>
+    <string name="nine6">Additional Detail about Harassment</string>
+    <string name="nine">Report Harassment</string>
+    <string name="ten">Report Suspicious Item</string>
+    <string name="eleven">Report Illegal Construction</string>
+    <string name="country">Select Country</string>
+    <string name="city">Select City</string>
+    <string name="name">Enter Name</string>
+    <string name="number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="twelve">Report Ghost Employees</string>
+    <string name="info">Verification Code has sent to your Phone number</string>
+    <string name="edit">Edit</string>
+    <string name="didnot">Didnt receive the OTP?</string>
+    <string name="resend">Resend</string>
+    <string name="verift">Verify otp</string>
+
+    <string-array name="AddPicture">
+        <item>Take Picture</item>
+        <item>Choose From Gallery</item>
+        <item>Cancel</item>
+    </string-array>
+
+</resources>

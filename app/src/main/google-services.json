@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "754893476017",
+    "firebase_url": "https://cyber-shield-d606a-default-rtdb.firebaseio.com",
+    "project_id": "cyber-shield-d606a",
+    "storage_bucket": "cyber-shield-d606a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754893476017:android:def2829f819e90ab235290",
+        "android_client_info": {
+          "package_name": "com.example.complaint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754893476017-l1jhakuiqbm2kr927q4h7k54foo0tuq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.complaint",
+            "certificate_hash": "cde0585450b0e6e062ebdb02843d699fad578f5d"
+          }
+        },
+        {
+          "client_id": "754893476017-8bb63el77vathgipqdmhku32ub3b25k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf61TE2z8XNwfpT-rQIikMvbOy2OlFJlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754893476017-8bb63el77vathgipqdmhku32ub3b25k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
